@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Redirect-CameraAccess</string>
+    <string name="ButtonText" translatable="false">Take Picture</string>
+</resources>
