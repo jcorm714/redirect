@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.redirectv2.MainActivity">
+    <item
+        android:id="@+id/menu_set"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/menu_itemList"
+        android:icon="@drawable/ic_format_list_bulleted_black_24dp"
+        android:title="Previous Captures"
+        app:showAsAction="always" />
+</menu>

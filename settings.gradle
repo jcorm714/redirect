@@ -1,0 +1,3 @@
+include ':app', ':simpletessocr'
+include ':OpenCVLibrary4.14'
+include ':openCVLibrary347'
